@@ -1,0 +1,4 @@
+interface:
+  display_name: "四阶段买卖点"
+  short_description: "结合四条周线SMA、企业质量与估值，制定长期持有及趋势交易买卖计划"
+  default_prompt: "使用 $four-stage-investing 分析这只标的的市场阶段，给出买入、加仓、减仓和退出的条件与失效点。"

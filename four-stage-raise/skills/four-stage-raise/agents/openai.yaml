@@ -1,0 +1,4 @@
+interface:
+  display_name: "四阶段 × Raise 复合策略"
+  short_description: "用周线四阶段筛选环境、日线Raise定位买卖，分开管理长期核心仓与机动仓"
+  default_prompt: "使用 $four-stage-raise 分析这只股票，按长期持有模式区分周线许可、日线买点、机动仓目标与核心仓失效条件。"

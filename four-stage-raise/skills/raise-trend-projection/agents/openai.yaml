@@ -1,0 +1,4 @@
+interface:
+  display_name: "Raise 趋势线投影"
+  short_description: "识别多空形态与条件买卖点，计算目标、止损及收益风险比，标注数据缺口"
+  default_prompt: "使用 $raise-trend-projection 分析指定标的的日线，给出形态状态、条件买卖点、止损、目标价及收益风险比。"
